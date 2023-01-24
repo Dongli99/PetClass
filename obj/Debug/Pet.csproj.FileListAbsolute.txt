@@ -1,0 +1,7 @@
+D:\Class\Prg2\w2\Pet\obj\Debug\Pet.csproj.AssemblyReference.cache
+D:\Class\Prg2\w2\Pet\obj\Debug\Pet.csproj.CoreCompileInputs.cache
+D:\Class\Prg2\w2\Pet\bin\Debug\Pet.exe.config
+D:\Class\Prg2\w2\Pet\bin\Debug\Pet.exe
+D:\Class\Prg2\w2\Pet\bin\Debug\Pet.pdb
+D:\Class\Prg2\w2\Pet\obj\Debug\Pet.exe
+D:\Class\Prg2\w2\Pet\obj\Debug\Pet.pdb
